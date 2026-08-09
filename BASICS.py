@@ -29,6 +29,8 @@ print(f"slice rows 0 to 2 and column 0 to 1 is {nparray5[0:2,0:1]}")
 
 print(f"slice rows 0 to 2 and all colums is {nparray5[[0,2] ,:]}")
 
+print(f"slice rows 0 to 1 and all colums is {nparray5[[0,1] ,:]}")
+
 ## BOOLEAN INDEXING
 
 mask= nparray5 > 5
