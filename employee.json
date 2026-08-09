@@ -1,0 +1,68 @@
+{
+    "employees": [
+        {
+            "id": 101,
+            "firstName": "John",
+            "lastName": "Doe",
+            "department": "Engineering",
+            "position": "Software Engineer",
+            "salary": 85000,
+            "fullTime": true,
+            "hireDate": "2020-03-15",
+            "email": "john.doe@example.com",
+            "phone": "+1-555-123-4567",
+            "address": {
+                "street": "123 Main St",
+                "city": "Springfield",
+                "state": "IL",
+                "zip": "62701"
+            }
+        },
+        {
+            "id": 102,
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "department": "Human Resources",
+            "position": "HR Manager",
+            "salary": 72000,
+            "fullTime": true,
+            "hireDate": "2018-07-01",
+            "email": "jane.smith@example.com",
+            "phone": "+1-555-987-6543",
+            "address": {
+                "street": "456 Oak Ave",
+                "city": "Rivertown",
+                "state": "CA",
+                "zip": "90210"
+            }
+        },
+        {
+            "id": 103,
+            "firstName": "Michael",
+            "lastName": "Brown",
+            "department": "Finance",
+            "position": "Accountant",
+            "salary": 65000,
+            "fullTime": false,
+            "hireDate": "2021-11-20",
+            "email": "michael.brown@example.com",
+            "phone": "+1-555-222-3344",
+            "address": {
+                "street": "789 Pine Rd",
+                "city": "Lakeside",
+                "state": "TX",
+                "zip": "75001"
+            }
+        },
+        {
+            "id": 104,
+            "firstName": "John",
+            "lastName": "salar"
+        },
+        {
+            "id": 104,
+            "firstName": "John",
+            "lastName": "salar"
+        }
+    ]
+}
