@@ -39,6 +39,7 @@ print("sin func is", np.sin(nptrigarray))
 print("cos func is", np.cos(nptrigarray))
 print("tan func is", np.tan(nptrigarray))
 print("tan func is", np.cosh(nptrigarray))
+
 ## absolute functions
 ## abs,sign,round,floor,ceil,trunc
 
