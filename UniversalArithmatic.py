@@ -38,6 +38,7 @@ nptrigarray= np.array([0,np.pi/2,np.pi])
 print("sin func is", np.sin(nptrigarray))
 print("cos func is", np.cos(nptrigarray))
 print("tan func is", np.tan(nptrigarray))
+###"need  to add cosh"
 
 ## absolute functions
 ## abs,sign,round,floor,ceil,trunc
