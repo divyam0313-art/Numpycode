@@ -1,0 +1,7 @@
+numpy
+# PostgreSQL driver
+postgres
+pandas
+matplotlib
+flask
+sqlalchemy
