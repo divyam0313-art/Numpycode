@@ -7,8 +7,7 @@ print("numpy array is :", numpyarray1)
 
 numpyarray2=np.zeros((2,5))
 print("numpy array2 is :", numpyarray2)
-
-
+print("numpy array2 updated new one second :", numpyarray2)
 numpyarray3=np.arange(2,stop=12,step=2)
 
 print("numpy array3 is :", numpyarray3)
