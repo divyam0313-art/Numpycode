@@ -11,6 +11,7 @@ print("numpy array2 is :", numpyarray2)
 numpyarray3=np.arange(2,stop=12,step=2)
 
 print("numpy array3 is :", numpyarray3)
+print("numpy array3 updated new one second :", numpyarray3)
 
 numpyarray4=np.linspace(start=2,stop=14,num=10)
 
